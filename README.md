@@ -14,5 +14,4 @@ not the customer.  We...are the product.
 I wasted a lot of time fixing this issue because
 every tutorial I read, left something out, or 
 wouldn't work.  I will attempt to include small
-details that cost me time.  I hope this helps 
-someone.
+details that cost me time.  I hope this helps someone.
