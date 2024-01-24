@@ -4,4 +4,4 @@ Tell me my mistake amd I'll fix it,
 giving you credit.   If these steps,
 dont work for you, make sure you leave 
 the model of your phone, and the steps 
-that worked for you.  
+that worked for you.  if I left something out, feel free to add it.
